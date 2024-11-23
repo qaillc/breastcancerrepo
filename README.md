@@ -5,9 +5,9 @@ The project successfully developed a Clinical Decision Support System (CDSS) aim
 
 •	Development of Synthetic Data Models:
 
-      o	Created a robust pipeline for generating clean and fuzzy synthetic datasets representing complex clinical, genomic, and genetic data.
+o	Created a robust pipeline for generating clean and fuzzy synthetic datasets representing complex clinical, genomic, and genetic data.
       
-      o	Utilized synthetic data to enhance model training, ensuring privacy and security while enabling iterative development cycles.
+o	Utilized synthetic data to enhance model training, ensuring privacy and security while enabling iterative development cycles.
 
 •	AI-Powered Treatment Predictions:
 
